@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/types.ts","./src/config/roomconfig.ts","./src/db/connectdb.ts","./src/models/message.ts","./src/utils/createroomid.ts"],"version":"5.7.3"}
